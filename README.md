@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou um Analista de Dados. Atualmente desenvolvo projetos para fortalecer minhas habilidades em SQL, Python e Power BI, transformando dados em análises e dashboards que auxiliam na tomada de decisões.
+Me chamo Lailson, sou um Analista de Dados. Atualmente desenvolvo projetos para fortalecer minhas habilidades em SQL, Python e Power BI, transformando dados em análises e dashboards que auxiliam na tomada de decisões.
 
 ## Tecnologias
 

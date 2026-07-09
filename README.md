@@ -27,7 +27,7 @@ Me chamo Lailson, sou um Analista de Dados. Atualmente desenvolvo projetos para 
 * 📦 Product Sales Analysis
 ## Objetivo
 
-Construir um portfólio sólido de projetos de dados e conquistar minha primeira oportunidade na área de Tecnologia e Analytics.
+Construir um portfólio sólido de projetos de dados e conquistar minha primeira oportunidade na área de Tecnologia e Análise de Dados.
 
 ## Contato
 
